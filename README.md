@@ -4,6 +4,8 @@
 
 ![Aperçu des maquettes](images_readme/maquette_screenshots.png)
 
+_Aperçu des maquettes Learn@Home que j'ai réalisées dans le cadre de ce projet._
+
 ## Présentation
 
 Ce projet consiste à définir les besoins pour une application web de soutien scolaire, dédiée à l'association **Learn@Home**. Cette plateforme fictive met en relation des enfants en difficulté scolaire avec des tuteurs bénévoles.
