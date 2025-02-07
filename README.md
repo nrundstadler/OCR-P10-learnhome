@@ -1,10 +1,12 @@
 # Projet 10 : Learn@Home (Définissez les besoins pour une app de soutien scolaire)
 
+10ème projet de la formation "Développeur d'application JavaScript React" d'OpenClassrooms.
+
+![Aperçu des maquettes](images_readme/maquette_screenshots.png)
+
 ## Présentation
 
 Ce projet consiste à définir les besoins pour une application web de soutien scolaire, dédiée à l'association **Learn@Home**. Cette plateforme fictive met en relation des enfants en difficulté scolaire avec des tuteurs bénévoles.
-
-![Aperçu des maquettes](images_readme/maquette_screenshots.png)
 
 ## Objectifs pédagogiques
 
